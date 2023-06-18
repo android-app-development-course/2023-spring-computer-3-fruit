@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Fruit Companion</string>
+
+    <!-- Error -->
+    <string name="result_connect_failed_error">服务器连接失败，请稍后再试。</string>
+    <string name="result_connect_timeout_error">服务器连接超时，请稍后再试。</string>
+    <string name="result_error">系统繁忙，请稍后再试。</string>
+    <string name="result_network_unavailable_error">网络不给力，请检查网络。</string>
+
+    <string name="result_failure">获取失败</string>
+
+    <string name="success_operator">操作成功</string>
+    <string name="failed_operator">操作失败，请稍后再试</string>
+
+    <!-- Home -->
+    <string name="home_menu1">水果百科</string>
+    <string name="home_menu2">水果时光</string>
+    <string name="home_menu3">水果记录</string>
+    <string name="home_menu4">我的</string>
+
+    <string name="tips_double_click_exit">再按一次退出</string>
+
+    <!-- Me -->
+    <string name="me_menu1">修改密码</string>
+    <string name="me_menu2">待实现</string>
+    <string name="me_menu3">服务与反馈</string>
+    <string name="me_about">关于</string>
+
+    <!-- About -->
+    <string name="about_title">关于</string>
+    <string name="about_version_update">版本更新</string>
+    <string name="about_about">关于</string>
+
+    <!-- Login & Register & Password -->
+
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+
+    <string name="hint_username">请输入手机号码</string>
+    <string name="hint_password">请输入登录密码</string>
+    <string name="hint_verify_code">请输入短信验证码</string>
+
+    <string name="hint_old_password">请输入旧密码</string>
+    <string name="hint_new_password">请输入新密码</string>
+    <string name="hint_confirm_new_password">请确认新密码</string>
+    <string name="hint_new_password_not_match">两次输入的新密码不一致</string>
+
+    <string name="tips_username_matcher">请输入有效的手机号码</string>
+    <string name="tips_password_matcher">密码长度6~20个字符，由英文字母、数字和符号中的至少两种组成。</string>
+
+
+    <string name="send_verify_code">发送验证码</string>
+    <string name="verify_code_down_time_">%1$dS后重发</string>
+
+    <string name="register_now">立即注册</string>
+    <string name="verify_code_login">验证码登录</string>
+    <string name="password_login">密码登录</string>
+
+    <string name="tips_user_agreement">阅读并同意</string>
+    <string name="tips_user_terms_of_service">《用户服务协议》</string>
+    <string name="terms_of_service_title">用户服务协议</string>
+
+    <string name="label_exist_account">已有账户，</string>
+    <string name="login_now">立即登录</string>
+
+    <string name="forgot_password">忘记密码</string>
+    <string name="reset_password">重置密码</string>
+    <string name="change_password">修改密码</string>
+
+    <string name="successfully_modified">修改成功</string>
+    <string name="successfully_reset">重置成功</string>
+    <string name="successfully_saved">保存成功</string>
+    <string name="successfully_set">设置成功</string>
+    <string name="successfully_registration">注册成功</string>
+    <string name="successfully_operation">操作成功</string>
+    <string name="successfully_submitted">提交成功</string>
+
+    <string name="apple">
+        苹果是蔷薇科苹果亚科苹果属植物，其树为落叶乔木。苹果的果实富含矿物质和维生素，是经常食用的水果之一，素有水果之王的美誉。
+        苹果的起源可以追溯到亚洲，现在已在世界各地广泛种植和消费。苹果有多种颜色、大小和品种，如红色、绿色、黄色、粉色等，每个品种的口感和营养成分也略有不同。
+        苹果是一种低热量、高纤维的食物，富含维生素C和其他抗氧化剂。该水果还含有多种营养物质，如钾、维生素K、叶酸、纤维素等。苹果有助于维持心脏健康，降低胆固醇水平，预防糖尿病和癌症等慢性疾病。
+    </string>
+
+    <string name="pear">
+        梨，蔷薇科梨属乔木植物，树冠开展；小枝粗壮，幼时有柔毛：二年生的枝紫褐色，具稀疏皮孔；托叶膜质，边缘具腺齿；叶片卵形或椭圆形。
+        梨的繁殖方式主要是嫁接繁殖，起源于中亚地区，在中国分布于河北、山东、陕西、甘肃等省，在意大利、美国、西班牙、苏联、法国也有栽培。
+        梨乃凉性果，尤其对于肝阳上亢或肝火上炎型高血压患者能清热镇静，改善头晕目眩，有助于降低血压，养肝护肝。
+        梨含有丰富的维生素和矿物质，能维持人体细胞的健康状态，但需注意脾胃虚寒、便溏腹泻、咳嗽无痰者不宜吃梨，糖尿病患者宜少食。
+        梨因其鲜嫩多汁，有“天然矿泉水”之称。
+    </string>
+
+    <string name="banana">
+        香蕉为芭蕉科植物甘蕉的果实，果肉香甜松软，黄白色，无种子。
+        香蕉原产印度，在中国有2000多年的历史，19世纪初传入中美洲，而且具有很高的经济价值，除了供应中国国内市场外，还在国际水果进出口贸易中占据重要地位。
+        香蕉既可生食，也可炖熟及做成香蕉干或者果脯等食用，还可制成香蕉泥（适合老人和儿童食用）。
+        香蕉营养丰富，是公认的美容减肥食品，含有丰富的蛋白质、脂肪、维生素C、粗纤维等营养成分，具有降低血压、缓解抽筋、改善便秘等功效。
+        近代医学建议，用香蕉可治高血压，因它含钾量丰富，可平衡钠的不良作用，并促进细胞及组织生长。
+    </string>
+
+    <string name="nutrition">
+        纤维素是一种碳水化合物，由许多葡萄糖分子组成。纤维素的作用有帮助促进肠道蠕动和预防便秘、控制血糖水平等。
+        蛋白质由氨基酸组成，是人体细胞和组织的基本构建块之一。蛋白质的作用有参与代谢过程、支持免疫系统、构建组织和器官等。
+        脂肪由脂肪酸和甘油组成，是人体的能量储备的主要组成部分之一。脂肪的作用有提供能量、维持体温、保护内脏器官、产生激素等。
+        维生素C是一种水溶性维生素，也称为抗坏血酸，它在人体内的功能有帮助身体吸收铁元素、支持免疫系统、促进胶原蛋白合成等。
+    </string>
+
+    <string name="service">
+        您好，如果您对我们的应用觉得有什么不满意的地方需要反馈，或者是改进的建议，请通过邮箱cs20bcfz@163.com联系我们，
+        我们将认真听取您的意见并及时改正，以求做到令广大客户满意，做得更好。
+    </string>
+
+    <string name="week1">
+        上半周您每日的水果摄入量均达到《中国居民膳食指南》建议标准，一共包含26.1g纤维素，1.8g蛋白质，1.9g脂肪和52.1毫克维生素C。
+        已补充身体所需要的维生素和膳食纤维，建议您可以选择蓝莓、牛油果等补充蛋白质和脂肪。
+    </string>
+    
+    <string name="week2">
+        下半周您周六的水果摄入量未达到《中国居民膳食指南》建议标准，成年人每天建议摄入200~400克水果。
+        其余三天一共包含12.5g纤维素，2.8蛋白质，3.1脂肪和40.2毫克维生素C。
+        已补充身体所需要的蛋白质和脂肪，建议您可以选择苹果、梨等补充纤维素和维生素C。
+    </string>
+
+</resources>
